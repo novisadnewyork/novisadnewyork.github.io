@@ -2,6 +2,8 @@
 published: false
 title: Ribe Koje Plivaju Uzvodno
 layout: post
+tags: [Ribe, Losos, Novi, Sad, New, York, ]
+categories: [Society]
 ---
 Losos svoj životni ciklus žapočinje u planinskoj reci iz koje se po navršetku druge godine upućuje ka okeanu. Odrasla jedinka se vraća u rodni potok, omresti se i ugine.
 ----------
@@ -22,5 +24,4 @@ Zato što je opstanak u novom gradu samo u početku uzbudljiv izazov.
 Zato što kada se slegne euforija nastaje svakodnevica u kojoj su novi poznanici i dalje stranci, a zanimljiva mesta i lica su već viđena.
 Zato što nisakim nije toliko dobro kao što je sa onima s' kojima je odlično i kada je obično. Sa njim je tišina prijatna i umirujuća, bez njega je gluva i dokona.
 ----------
-
-
+Jedino tako i tim redosledom losos može da ostvari svoj životni ciklus.
