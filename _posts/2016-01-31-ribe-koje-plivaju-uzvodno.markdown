@@ -2,7 +2,7 @@
 published: false
 title: Ribe Koje Plivaju Uzvodno
 layout: post
-tags: [Ribe, Losos, Novi, Sad, New, York, ]
+tags: [Ribe, Losos, Novi, Sad, New, York, Salmon, ]
 categories: [Society]
 ---
 Losos svoj životni ciklus žapočinje u planinskoj reci iz koje se po navršetku druge godine upućuje ka okeanu. Odrasla jedinka se vraća u rodni potok, omresti se i ugine.
