@@ -16,7 +16,7 @@ permalink: "2016-01-31-ribe-koje-plivaju-uzvodno.markdown"
 ---
 
 **_Losos započinje svoj životni ciklus u planinskoj reci iz koje se po navršetku druge godine upućuje ka okeanu. Odrasla jedinka se vraća u rodni potok, mresti se i gine._**
-#"Jesi li ti normalna?! Zasto si se vratila?"
+##"Jesi li ti normalna?! Zasto si se vratila?"
 Tim redosledom nižu se pitanja većine prijatelja i poznanika koje bih srela po svom povratku, redovno propraćena, prvo začudjenim pogledima, a onda zabrinutim izrazem lica. Iako bih odgovor na prvo, više retoričko, uglavnom preskočila morala bih nešto da odgovorim na ovo drugo pitanje, logičko u biti.
 
 U prirodi čoveka je da prati migracije zajednice i da teži ka asimilaciji javnom mnjenju. Istupanje iz istog karatkteriše se kao, u najblažu ruku, nerazumno. To konkretno znači težiti ka kvalitetnom životu ovde spram nada, snova i pokušaja budućnosti negde tamo. Sporedno je gde se tačno nalazi to tamo, sve dok nije ovde. Deveta ofanziva uveliko se zahuktala.
@@ -26,7 +26,7 @@ Narod se na sve navikne pa se i na moj povratak svak' privikao. Pitanja su sve r
 
 **_Losos ostvaruje svoj životni ciklus napuštanjem rodnog potoka; plovidbom u stranim, slanim vodama svetskih mora i okeana; potom sticanjem polne zrelosti i konačno plivanjem uzvodno ka tom istom rodnom potoku._**
 
-#Zašto Novi Sad - Zašto ne Nju Jork?
+##Zašto Novi Sad - Zašto ne Nju Jork?
 Zato što gužva ne može da nadomesti bliskost, a užurbanost ne znači smislenost.
 
 Zato što zaslepljujuća svetla metropole ne hipnotšiu koliko blistav sjaj vedrog neba posmatran iz plitke vode Dunava u toploj avgustovskoj noći.
