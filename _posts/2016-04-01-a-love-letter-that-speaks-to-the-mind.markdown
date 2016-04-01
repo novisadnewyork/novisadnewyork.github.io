@@ -2,6 +2,7 @@
 published: true
 title: A Love Letter That Speaks to the Mind
 layout: post
+tags: [#love, #relationships, #generationy, #struggle, #notbeingready, #mem, #women, #female, #male, #problems]
 ---
 ###Between the Ecstasy and Agony
 
