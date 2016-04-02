@@ -5,7 +5,8 @@ layout: post
 ---
 
 
-##Between the Ecstasy and Agony
+
+##Between Ecstasy and Agony
 
 A friend of mine recently confessed that the pseudo-platonic relationship she trapped herself into was going nowhere. She felt devastated over the possibility of losing something that was never there to begin with. And though, the signs were there from the beginning she kept feeding the illusion until it bite her back ripping her heart out. Because I love her dearly, and because I've been in the similar situations number of times, I write this _Love Letter_ to remind her, myself, and others that after the rain comes the sun, and after the sun comes the storm. 
 
