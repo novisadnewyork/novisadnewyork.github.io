@@ -1,7 +1,7 @@
 title: Novi Sad New York 
 description: Hanibal ante portas
 
-url: http://novisadnewyork.com/
+url: http://sojelena.com/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
